@@ -1,5 +1,5 @@
 /*
- *  Project: Scrolly : parallax is easy as a matter of fact !
+ *  
  */
 !function(root, factory) {
   if (typeof define === 'function' && define.amd) {
